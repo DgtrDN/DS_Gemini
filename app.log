@@ -1,0 +1,9 @@
+[2024-01-15 10:30:45] INFO: Application started
+[2024-01-15 10:31:12] DEBUG: Loading configuration
+[2024-01-15 10:31:45] ERROR: Database connection failed
+[2024-01-15 10:32:10] INFO: Retrying connection
+[2024-01-15 10:32:20] INFO: Database connected
+[2024-01-15 10:33:05] DEBUG: Query executed: SELECT * FROM users
+[2024-01-15 10:33:10] INFO: 42 users loaded
+[2024-01-15 10:34:30] ERROR: Invalid user ID
+[2024-01-15 10:35:00] INFO: Error logged

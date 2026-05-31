@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2024-01-01",
+    "product": "Laptop",
+    "category": "Electronics",
+    "price": 1200,
+    "quantity": 2,
+    "region": "Moscow"
+  },
+  {
+    "date": "2024-01-01",
+    "product": "Mouse",
+    "category": "Electronics",
+    "price": 25,
+    "quantity": 10,
+    "region": "SPB"
+  },
+  {
+    "date": "2024-01-02",
+    "product": "Keyboard",
+    "category": "Electronics",
+    "price": 80,
+    "quantity": 5,
+    "region": "Moscow"
+  },
+  {
+    "date": "2024-01-02",
+    "product": "Monitor",
+    "category": "Electronics",
+    "price": 300,
+    "quantity": 3,
+    "region": "SPB"
+  },
+  {
+    "date": "2024-01-03",
+    "product": "Laptop",
+    "category": "Electronics",
+    "price": 1200,
+    "quantity": 1,
+    "region": "Moscow"
+  },
+  {
+    "date": "2024-01-03",
+    "product": "Mouse",
+    "category": "Electronics",
+    "price": 25,
+    "quantity": 8,
+    "region": "Moscow"
+  }
+]
